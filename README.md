@@ -26,26 +26,25 @@ Projeto de login, para testar as principais funcionalidades do Angular 17 e as v
   <img alt="mockup" src="https://github.com/MateusMaceedo/Login-Page/blob/master/img/banner-figma.png?raw=true" width="100%">
 </p>
 
-## Development server
+## Para rodar o projeto
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Pré-requisitos
+- Node
+- Npm
+- CLI do Angula (opcional)
 
-## Code scaffolding
+- Abra um terminal execute os seguintes comandos na raiz do projeto
+```bash
+ng serve
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+```
 
-## Build
+Acesse a rota da aplicação no endpoint: `http://localhost:4200/`
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## :memo: License
 
-## Running unit tests
+This project is under the MIT license. See the [LICENSE](https://github.com/) for more information.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+---
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Made with ♥ by Mateus Macedo :wave: [Get in touch!](https://www.linkedin.com/in/mateusmacedodev/)
