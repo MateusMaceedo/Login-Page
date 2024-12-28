@@ -15,9 +15,16 @@ Projeto de login, para testar as principais funcionalidades do Angular 17 e as v
 ### Componentes do projeto
 
 - Layout component
+- Cadastro component
+- Login component
 
 ### Figma do projeto
-https://www.figma.com/file/7T1wkErczpMOBeqtpVjMSb/Login-Page-Design?type=design&node-id=6%3A920&mode=design&t=YDa0SydWP9beF1vf-1
+- (Login page figma)[https://www.figma.com/file/7T1wkErczpMOBeqtpVjMSb/Login-Page-Design?type=design&node-id=6%3A920&mode=design&t=YDa0SydWP9beF1vf-1]
+
+### Layout do projeto
+<p align="center">
+  <img alt="mockup" src=".github/banner-figma.png" width="100%">
+</p>
 
 ## Development server
 
