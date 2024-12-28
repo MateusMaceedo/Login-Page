@@ -23,7 +23,7 @@ Projeto de login, para testar as principais funcionalidades do Angular 17 e as v
 
 ### Layout do projeto
 <p align="center">
-  <img alt="mockup" src=".github/banner-figma.png" width="100%">
+  <img alt="mockup" src="https://github.com/MateusMaceedo/Login-Page/blob/master/img/banner-figma.png?raw=true" width="100%">
 </p>
 
 ## Development server
