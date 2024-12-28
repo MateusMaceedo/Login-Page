@@ -1,6 +1,23 @@
 # LoginPage
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.11.
+Projeto de login, para testar as principais funcionalidades do Angular 17 e as versões mais atuais, Typescript e Sass. O projeto em sí, tera uma tela de login, cadastro e formulario posteriormente, inicialmente será desenvolvido somente o frontend, e depois farei a API que ira trazer as funcionalidades no Backend, usando o Java 17.
+
+### Setup
+
+- Angular CLI: [Angular CLI](https://github.com/angular/angular-cli) version 17.3.11.
+- Angular 17
+- VS Code
+- Jest para testes unitarios
+- VS Code IDE
+- Typescript
+- SCSS (SASS)
+
+### Componentes do projeto
+
+- Layout component
+
+### Figma do projeto
+https://www.figma.com/file/7T1wkErczpMOBeqtpVjMSb/Login-Page-Design?type=design&node-id=6%3A920&mode=design&t=YDa0SydWP9beF1vf-1
 
 ## Development server
 
