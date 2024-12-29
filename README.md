@@ -1,4 +1,6 @@
-# LoginPage
+<h1 align="center">
+    LoginPage
+</h1>
 
 Projeto de login, para testar as principais funcionalidades do Angular 17 e as versões mais atuais, Typescript e Sass. O projeto em sí, tera uma tela de login, cadastro e formulario posteriormente, inicialmente será desenvolvido somente o frontend, e depois farei a API que ira trazer as funcionalidades no Backend, usando o Java 17.
 
